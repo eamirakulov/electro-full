@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Electro were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/electro
+Data file = /Users/emil/projects/electro/wp-content/themes/electro/assets/dummy-data/lite/dummy-data.xml
+Widget file = /Users/emil/projects/electro/wp-content/themes/electro/assets/dummy-data/lite/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> /Users/emil/projects/electro/wp-content/themes/electro/assets/dummy-data/lite/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Изображение - No Title - Imported
+Товары - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Изображение - No Title - Imported
+Товары - Latest Products - Imported
+
+Product Filters : 
+
+Активные фильтры товаров - Active Filters - Imported
+Фильтрация товаров по атрибутам - Brands - Imported
+Фильтрация товаров по атрибутам - Color - Imported
+Фильтрация товаров по цене - Price - Imported
+
+Blog Sidebar : 
+
+Поиск - No Title - Imported
+Текст - About Blog - Imported
+Рубрики - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Облако меток - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Товары - Featured Products - Imported
+Товары - Top Selling Products - Imported
+Товары - On-sale Products - Imported
+
+Footer Bottom Widgets : 
+
+Меню навигации - Find It Fast - Imported
+Меню навигации -   - Imported
+Меню навигации - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Меню навигации - We Recommend - Imported
+Меню навигации - My Account - Imported
+Меню навигации - Customer Care - Imported
+Меню навигации - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---pt-ocdi/after_import---
+
